@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "Associate Software Developer",
+    "organization": "Altois Digital",
+    "startDate": "March 11, 2024",
+    "endDate": "Present",
+    "location": "Kandivali(w)",
+    "task": [
+      "Worked with a team to create software for real estate clients based on their needs. ",
+      "Built and updated projects to make sure they were easy to use and worked well.",
+      "Learned new tools and skills to help the team work faster."
+    ],
+    "imgSrc": "assets/images/Altois.jpg"
+  }
+]

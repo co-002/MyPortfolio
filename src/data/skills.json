@@ -1,0 +1,52 @@
+[
+  {
+    "language": "bootstrap",
+    "imgSrc": "assets/images/bootstrap.png",
+    "link": "https://getbootstrap.com/docs/5.0/getting-started/introduction/"
+  },
+  {
+    "language": "css",
+    "imgSrc": "assets/images/css.png",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+  },
+  {
+    "language": "express",
+    "imgSrc": "assets/images/express.png",
+    "link": "https://expressjs.com/"
+  },
+  {
+    "language": "html",
+    "imgSrc": "assets/images/html.png",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+  },
+  {
+    "language": "java",
+    "imgSrc": "assets/images/java.png",
+    "link": "https://www.java.com/en/"
+  },
+  {
+    "language": "javascript",
+    "imgSrc": "assets/images/js.png",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "language": "mysql",
+    "imgSrc": "assets/images/mysql.png",
+    "link": "https://dev.mysql.com/doc/"
+  },
+  {
+    "language": "mongodb",
+    "imgSrc": "assets/images/mongodb.png",
+    "link": "https://www.mongodb.com/"
+  },
+  {
+    "language": "react",
+    "imgSrc": "assets/images/react.png",
+    "link": "https://react.dev/"
+  },
+  {
+    "language": "node",
+    "imgSrc": "assets/images/node.png",
+    "link": "https://nodejs.org/en"
+  }
+]
